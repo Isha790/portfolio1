@@ -47,7 +47,8 @@ const Contact = () => {
       <div id="skill1">
         <h1 className="contactPageTitle">My Skills</h1>
         <div className="skillImgs">
-          <div class="image-row">  //image row
+          <div class="image-row">  
+          {/* image row */}
             <img src={cpp} alt="cpp" className="skillImg" />
             <img src={html} alt="html" className="skillImg" />
             <img src={css} alt="css" className="skillImg" />

@@ -41,7 +41,7 @@ const Contact = () => {
         }
       );
   };
-
+// return statement
   return (
     <section id="contactPage">
       <div id="skill1">
